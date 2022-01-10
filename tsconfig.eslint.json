@@ -1,0 +1,10 @@
+{
+  "include": [
+    ".eslintrc.js",
+    "babel.config.js",
+    "src",
+    "storybook",
+    "__tests__",
+    "App.tsx",
+  ],
+}
